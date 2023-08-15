@@ -7,7 +7,7 @@ import com.alibaba.fastjson2.JSON;
 import com.alibaba.fastjson2.JSONReader;
 import com.alibaba.fastjson2.JSONWriter;
 import com.alibaba.fastjson2.filter.Filter;
-import com.ruoyi.common.constant.Constants;
+import com.rikka.common.constant.Constants;
 
 /**
  * Redis使用FastJson序列化
